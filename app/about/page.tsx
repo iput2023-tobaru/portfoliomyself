@@ -24,7 +24,7 @@ export default function About() {
                 🧑‍💻
               </div>
               
-              <h2 className="text-2xl font-bold text-center mb-2">Yuki Momohara</h2>
+              <h2 className="text-2xl font-bold text-center mb-2">Yu Tobaru</h2>
               <p className="text-blue-400 text-sm font-bold text-center mb-6 uppercase tracking-widest">IoT Engineer Student</p>
               
               <div className="space-y-4 text-sm text-slate-300">
